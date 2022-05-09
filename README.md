@@ -32,7 +32,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/zhenorzz/snowflake"
+	"github.com/ncghost1/snowflake-go"
 )
 
 func main() {
